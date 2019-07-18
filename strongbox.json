@@ -1,19 +1,19 @@
 {
-    "version": "0.1.7",
+    "version": "0.1.8",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/mvisonneau/strongbox/releases/download/0.1.7/strongbox_0.1.7_windows_386.zip",
+            "url": "https://github.com/mvisonneau/strongbox/releases/download/0.1.8/strongbox_0.1.8_windows_386.zip",
             "bin": [
                 "strongbox.exe"
             ],
-            "hash": "439a7e5c2de3a58a600a079ce9d141dc02b12529bee1dc918a4f68023afd8903"
+            "hash": "b25a8c273326758e09c68f2365bd90fcdba9ac30ca98ae76872b11dced7dd13e"
         },
         "64bit": {
-            "url": "https://github.com/mvisonneau/strongbox/releases/download/0.1.7/strongbox_0.1.7_windows_amd64.zip",
+            "url": "https://github.com/mvisonneau/strongbox/releases/download/0.1.8/strongbox_0.1.8_windows_amd64.zip",
             "bin": [
                 "strongbox.exe"
             ],
-            "hash": "9ad0d7f6dde400f9d8ae5e59900da60ed19f4677226ee82066dcf3b33db7ff96"
+            "hash": "839d995cd2d868217e99de30c3c644fcbbecf8f3e35b64b5c43ddcfc2c96b7da"
         }
     },
     "homepage": "https://github.com/mvisonneau/strongbox",
