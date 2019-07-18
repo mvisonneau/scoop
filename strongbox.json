@@ -1,0 +1,12 @@
+{
+    "version": "0.1.7",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/mvisonneau/strongbox/releases/download/0.1.7/strongbox_0.1.7_windows_amd64.tar.gz",
+            "bin": [
+                "strongbox.exe"
+            ],
+            "hash": "3e187bc966748ac001f532c22b5dbe83cc7182972c42abd6a9c3b4ebf4222b13"
+        }
+    }
+}
