@@ -1,12 +1,22 @@
 {
     "version": "0.1.7",
     "architecture": {
+        "32bit": {
+            "url": "https://github.com/mvisonneau/strongbox/releases/download/0.1.7/strongbox_0.1.7_windows_386.zip",
+            "bin": [
+                "strongbox.exe"
+            ],
+            "hash": "439a7e5c2de3a58a600a079ce9d141dc02b12529bee1dc918a4f68023afd8903"
+        },
         "64bit": {
             "url": "https://github.com/mvisonneau/strongbox/releases/download/0.1.7/strongbox_0.1.7_windows_amd64.zip",
             "bin": [
                 "strongbox.exe"
             ],
-            "hash": "227b9cb0f22516ae315f6ca5ee3fc487af9bf332d02cc1a0f762b056a05996f1"
+            "hash": "9ad0d7f6dde400f9d8ae5e59900da60ed19f4677226ee82066dcf3b33db7ff96"
         }
-    }
+    },
+    "homepage": "https://github.com/mvisonneau/strongbox",
+    "license": "Apache 2.0",
+    "description": "Securely store secrets at rest using Hashicorp Vault"
 }
