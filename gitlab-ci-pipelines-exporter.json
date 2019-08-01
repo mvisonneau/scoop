@@ -6,14 +6,14 @@
             "bin": [
                 "gitlab-ci-pipelines-exporter.exe"
             ],
-            "hash": "068825db27e7701dc39e73e8f2553470a53658471fbab4f6745ae66af5fe4eb5"
+            "hash": "ba16fa1891d34f8579a7707bdc031bfb6d47f8b2f71048a13e4d96758431df6b"
         },
         "64bit": {
             "url": "https://github.com/mvisonneau/gitlab-ci-pipelines-exporter/releases/download/0.2.3/gitlab-ci-pipelines-exporter_0.2.3_windows_amd64.zip",
             "bin": [
                 "gitlab-ci-pipelines-exporter.exe"
             ],
-            "hash": "367e27aae1ba728a85cee507c55c01e4fbe08af89d9405468a3c40e807d7338a"
+            "hash": "ea8826184cb11459a155a65762a022ca3acf9015436b1eb379ed4a38c6913265"
         }
     },
     "homepage": "https://github.com/mvisonneau/gitlab-ci-pipelines-exporter",
