@@ -1,19 +1,19 @@
 {
-    "version": "0.2.4",
+    "version": "0.2.5",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/mvisonneau/gitlab-ci-pipelines-exporter/releases/download/0.2.4/gitlab-ci-pipelines-exporter_0.2.4_windows_386.zip",
+            "url": "https://github.com/mvisonneau/gitlab-ci-pipelines-exporter/releases/download/0.2.5/gitlab-ci-pipelines-exporter_0.2.5_windows_386.zip",
             "bin": [
                 "gitlab-ci-pipelines-exporter.exe"
             ],
-            "hash": "6b5cfb1b251e8e0a290bd32fed8c08b708af84545f7bd18942f81352080bddb2"
+            "hash": "3c84c05402cd3d1968da7f1d754cbf4e9c663e72cb5d0e747ebabf2fd0ec0d1c"
         },
         "64bit": {
-            "url": "https://github.com/mvisonneau/gitlab-ci-pipelines-exporter/releases/download/0.2.4/gitlab-ci-pipelines-exporter_0.2.4_windows_amd64.zip",
+            "url": "https://github.com/mvisonneau/gitlab-ci-pipelines-exporter/releases/download/0.2.5/gitlab-ci-pipelines-exporter_0.2.5_windows_amd64.zip",
             "bin": [
                 "gitlab-ci-pipelines-exporter.exe"
             ],
-            "hash": "81456f1e958f0272a8dbdef1ca451ac41b39793d5256355a20b8473a91b015f4"
+            "hash": "852e119fdf48ee3d997a0fdeacdab8ea9353edafced7b51524e26c20898d4739"
         }
     },
     "homepage": "https://github.com/mvisonneau/gitlab-ci-pipelines-exporter",
