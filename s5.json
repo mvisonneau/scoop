@@ -1,19 +1,19 @@
 {
-    "version": "0.1.5",
+    "version": "0.1.6",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/mvisonneau/s5/releases/download/0.1.5/s5_0.1.5_windows_386.zip",
+            "url": "https://github.com/mvisonneau/s5/releases/download/0.1.6/s5_0.1.6_windows_386.zip",
             "bin": [
                 "s5.exe"
             ],
-            "hash": "bddf0daf156f0265c5224ba1bb15d2530803f4a182852640efc020881134778c"
+            "hash": "05ac23742fbc2780b0918aa8bab01c258ab5a1ee7f0ecea45c14fd5cca39463b"
         },
         "64bit": {
-            "url": "https://github.com/mvisonneau/s5/releases/download/0.1.5/s5_0.1.5_windows_amd64.zip",
+            "url": "https://github.com/mvisonneau/s5/releases/download/0.1.6/s5_0.1.6_windows_amd64.zip",
             "bin": [
                 "s5.exe"
             ],
-            "hash": "f152193a0a9f83fd990f224d3e4cd580a01821f13b13f0e94239b24912f90b8d"
+            "hash": "91e087382c533de227460d66bb27e9ce55bfebf664ffd53f7edfa198e9473bfb"
         }
     },
     "homepage": "https://github.com/mvisonneau/s5",
