@@ -1,0 +1,22 @@
+{
+    "version": "0.0.1",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/mvisonneau/tfcw/releases/download/0.0.1/tfcw_0.0.1_windows_386.zip",
+            "bin": [
+                "tfcw.exe"
+            ],
+            "hash": "cca8fa0d0cbea093604890341963896814763c24b07e8173a499a27ca90400a1"
+        },
+        "64bit": {
+            "url": "https://github.com/mvisonneau/tfcw/releases/download/0.0.1/tfcw_0.0.1_windows_amd64.zip",
+            "bin": [
+                "tfcw.exe"
+            ],
+            "hash": "f161c1e2dd4488ead1fdf64230f394bc0e1badab06b733e0c40ffa676c8d4011"
+        }
+    },
+    "homepage": "https://github.com/mvisonneau/s5",
+    "license": "Apache 2.0",
+    "description": "Safely Store Super Sensitive Stuff"
+}
