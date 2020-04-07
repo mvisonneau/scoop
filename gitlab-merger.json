@@ -1,19 +1,19 @@
 {
-    "version": "0.1.2",
+    "version": "0.1.3",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/mvisonneau/gitlab-merger/releases/download/0.1.2/gitlab-merger_0.1.2_windows_386.zip",
+            "url": "https://github.com/mvisonneau/gitlab-merger/releases/download/0.1.3/gitlab-merger_0.1.3_windows_386.zip",
             "bin": [
                 "gitlab-merger.exe"
             ],
-            "hash": "d42a0deae3cd89e02733bdecd03c5f3a98c2dd471dd5b144004ae9a811e539fc"
+            "hash": "ccd3dcc9cbf4b46e5d385fab50a5ad4db2c090619ca20d7d2f6792f428a3aa37"
         },
         "64bit": {
-            "url": "https://github.com/mvisonneau/gitlab-merger/releases/download/0.1.2/gitlab-merger_0.1.2_windows_amd64.zip",
+            "url": "https://github.com/mvisonneau/gitlab-merger/releases/download/0.1.3/gitlab-merger_0.1.3_windows_amd64.zip",
             "bin": [
                 "gitlab-merger.exe"
             ],
-            "hash": "c25bf19110dd01fed5b8a2febe27a332e4f8ac5ca4f13a4aebbc7a93b6524709"
+            "hash": "a88783e03c94371c6fbb39f130348c7d8b60c045a09ff2ee1d021346bc436387"
         }
     },
     "homepage": "https://github.com/mvisonneau/gitlab-merger",
