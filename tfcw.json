@@ -1,19 +1,19 @@
 {
-    "version": "0.0.6",
+    "version": "0.0.7",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/mvisonneau/tfcw/releases/download/0.0.6/tfcw_0.0.6_windows_386.zip",
+            "url": "https://github.com/mvisonneau/tfcw/releases/download/0.0.7/tfcw_0.0.7_windows_386.zip",
             "bin": [
                 "tfcw.exe.exe"
             ],
-            "hash": "c31b02e2a836f7e3c49975695d23402a74a083f48379855c9be5e0d790a39ef6"
+            "hash": "ccfda02da9712e6640f18acde9f9d43ecccddb5a4511bd7a84676bd3602ff903"
         },
         "64bit": {
-            "url": "https://github.com/mvisonneau/tfcw/releases/download/0.0.6/tfcw_0.0.6_windows_amd64.zip",
+            "url": "https://github.com/mvisonneau/tfcw/releases/download/0.0.7/tfcw_0.0.7_windows_amd64.zip",
             "bin": [
                 "tfcw.exe.exe"
             ],
-            "hash": "20491d8bbfb6820c8d1d633abe28642d259a4d1f8d34969195f3d38b807217e4"
+            "hash": "6195a66290645917480928aea963b610e72bcfbd68137bc5f0a70fb26784397a"
         }
     },
     "homepage": "https://github.com/mvisonneau/s5",
