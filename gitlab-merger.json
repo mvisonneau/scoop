@@ -6,14 +6,14 @@
             "bin": [
                 "gitlab-merger.exe"
             ],
-            "hash": "ccd3dcc9cbf4b46e5d385fab50a5ad4db2c090619ca20d7d2f6792f428a3aa37"
+            "hash": "4568c0e0289bde95d60742cf1d49c14fde95eec99ea5397070c4f2ea41df97e0"
         },
         "64bit": {
             "url": "https://github.com/mvisonneau/gitlab-merger/releases/download/0.1.3/gitlab-merger_0.1.3_windows_amd64.zip",
             "bin": [
                 "gitlab-merger.exe"
             ],
-            "hash": "a88783e03c94371c6fbb39f130348c7d8b60c045a09ff2ee1d021346bc436387"
+            "hash": "06b466d1496a66c45913155c5150926837cf117de9d8085d91f3a46613d535c8"
         }
     },
     "homepage": "https://github.com/mvisonneau/gitlab-merger",
