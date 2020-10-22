@@ -1,19 +1,19 @@
 {
-    "version": "0.0.3",
+    "version": "0.0.4",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/mvisonneau/vac/releases/download/0.0.3/vac_0.0.3_windows_386.zip",
+            "url": "https://github.com/mvisonneau/vac/releases/download/0.0.4/vac_0.0.4_windows_386.zip",
             "bin": [
                 "vac.exe"
             ],
-            "hash": "295ab81d2f763a8f1f2dae015bef7a58a5061d72f093d968462b80247557d134"
+            "hash": "504f1cfb95bcdc464443ed964600c4b05ef8282c212e9e0be4461a4e03c28e64"
         },
         "64bit": {
-            "url": "https://github.com/mvisonneau/vac/releases/download/0.0.3/vac_0.0.3_windows_amd64.zip",
+            "url": "https://github.com/mvisonneau/vac/releases/download/0.0.4/vac_0.0.4_windows_amd64.zip",
             "bin": [
                 "vac.exe"
             ],
-            "hash": "a41f686a59d4ad6bde717161e1f54c2ec9a6394284810661961dc2a0db511653"
+            "hash": "c253ba377491facf76eba9e63a948bba2e8debcb67e02e807dfe42542b31abfa"
         }
     },
     "homepage": "https://github.com/mvisonneau/vac",
