@@ -1,22 +1,22 @@
 {
-    "version": "0.0.9",
+    "version": "0.0.10",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/mvisonneau/tfcw/releases/download/0.0.9/tfcw_0.0.9_windows_386.zip",
+            "url": "https://github.com/mvisonneau/tfcw/releases/download/v0.0.10/tfcw_0.0.10_windows_386.zip",
             "bin": [
                 "tfcw.exe"
             ],
-            "hash": "8959b63c3f994ba835c775b8832260915469acc43a3a343c6d5e25c8eba91f8f"
+            "hash": "a6064b357dfcf44cc9b87af8835207e03d5302fc0dc7342d266d2d21adf26e5c"
         },
         "64bit": {
-            "url": "https://github.com/mvisonneau/tfcw/releases/download/0.0.9/tfcw_0.0.9_windows_amd64.zip",
+            "url": "https://github.com/mvisonneau/tfcw/releases/download/v0.0.10/tfcw_0.0.10_windows_amd64.zip",
             "bin": [
                 "tfcw.exe"
             ],
-            "hash": "f9b81596e1446fff11c9bc0477d299de267b6658d4a7d9524a17f856b3327ef0"
+            "hash": "7fec563bb76626797a4f90605363368f4fe93dc7376466abf4f67b7b0c50e730"
         }
     },
-    "homepage": "https://github.com/mvisonneau/s5",
+    "homepage": "https://github.com/mvisonneau/tfcw",
     "license": "Apache 2.0",
-    "description": "Safely Store Super Sensitive Stuff"
+    "description": "Terraform Cloud Wrapper"
 }
