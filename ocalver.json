@@ -1,0 +1,22 @@
+{
+    "version": "0.0.1",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/mvisonneau/ocalver/releases/download/v0.0.1/ocalver_v0.0.1_windows_386.zip",
+            "bin": [
+                "ocalver.exe"
+            ],
+            "hash": "9d3f4dc6ed2f626c1ce6c58a0ebaa3983e5f606fe8553533c3bcb0519cb81cdc"
+        },
+        "64bit": {
+            "url": "https://github.com/mvisonneau/ocalver/releases/download/v0.0.1/ocalver_v0.0.1_windows_amd64.zip",
+            "bin": [
+                "ocalver.exe"
+            ],
+            "hash": "4f2869679151a2931a198f2b1cb664b9ac6656efa3c6e1f68edb33a3fa518e6d"
+        }
+    },
+    "homepage": "https://github.com/mvisonneau/ocalver",
+    "license": "Apache 2.0",
+    "description": "Opinionated CalVer generator"
+}
