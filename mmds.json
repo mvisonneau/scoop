@@ -1,0 +1,22 @@
+{
+    "version": "0.1.2",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/mvisonneau/mmds/releases/download/0.1.2/mmds_0.1.2_windows_386.zip",
+            "bin": [
+                "mmds.exe"
+            ],
+            "hash": "563fb43688cb4f8bda2340b785868edc7935d84edfbc39cbaffb9af67ad3a8b4"
+        },
+        "64bit": {
+            "url": "https://github.com/mvisonneau/mmds/releases/download/0.1.2/mmds_0.1.2_windows_amd64.zip",
+            "bin": [
+                "mmds.exe"
+            ],
+            "hash": "c3a7227d8f51b4534ca80adc68dd6292d74189216838df06139e3e34f2f4b625"
+        }
+    },
+    "homepage": "https://github.com/mvisonneau/mmds",
+    "license": "Apache 2.0",
+    "description": "Missed (AWS) Meta-Data (service)"
+}
