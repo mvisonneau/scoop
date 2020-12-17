@@ -6,14 +6,14 @@
             "bin": [
                 "tfcw.exe"
             ],
-            "hash": "266c95afe68056ea36cf75c4c6574c67f32807f9390ea6a89fa1bb6d2ab0be5d"
+            "hash": "e53d233ffd7702015407d74f0f4bc9f2d0899ab6ff266f96347695a020f405e9"
         },
         "64bit": {
             "url": "https://github.com/mvisonneau/tfcw/releases/download/v0.0.11/tfcw_v0.0.11_windows_amd64.zip",
             "bin": [
                 "tfcw.exe"
             ],
-            "hash": "f3e02b9850dab779593e4b66a52925618785050d8b1e8ade7baf765682d00b60"
+            "hash": "22f35e0ac696c31819d5333b7711dc001b09af26337e461a5f9c885895a05277"
         }
     },
     "homepage": "https://github.com/mvisonneau/tfcw",
