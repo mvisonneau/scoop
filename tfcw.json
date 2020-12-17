@@ -1,19 +1,19 @@
 {
-    "version": "0.0.10",
+    "version": "0.0.11",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/mvisonneau/tfcw/releases/download/v0.0.10/tfcw_0.0.10_windows_386.zip",
+            "url": "https://github.com/mvisonneau/tfcw/releases/download/v0.0.11/tfcw_v0.0.11_windows_386.zip",
             "bin": [
                 "tfcw.exe"
             ],
-            "hash": "a6064b357dfcf44cc9b87af8835207e03d5302fc0dc7342d266d2d21adf26e5c"
+            "hash": "266c95afe68056ea36cf75c4c6574c67f32807f9390ea6a89fa1bb6d2ab0be5d"
         },
         "64bit": {
-            "url": "https://github.com/mvisonneau/tfcw/releases/download/v0.0.10/tfcw_0.0.10_windows_amd64.zip",
+            "url": "https://github.com/mvisonneau/tfcw/releases/download/v0.0.11/tfcw_v0.0.11_windows_amd64.zip",
             "bin": [
                 "tfcw.exe"
             ],
-            "hash": "7fec563bb76626797a4f90605363368f4fe93dc7376466abf4f67b7b0c50e730"
+            "hash": "f3e02b9850dab779593e4b66a52925618785050d8b1e8ade7baf765682d00b60"
         }
     },
     "homepage": "https://github.com/mvisonneau/tfcw",
