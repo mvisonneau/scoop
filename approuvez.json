@@ -1,0 +1,22 @@
+{
+    "version": "0.0.1",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/mvisonneau/approuvez/releases/download/v0.0.1/approuvez_v0.0.1_windows_386.zip",
+            "bin": [
+                "approuvez.exe"
+            ],
+            "hash": "1f0261d91466fb94fbece9559b26c40b5dcba20f9c2d66667813abaacf1f788a"
+        },
+        "64bit": {
+            "url": "https://github.com/mvisonneau/approuvez/releases/download/v0.0.1/approuvez_v0.0.1_windows_amd64.zip",
+            "bin": [
+                "approuvez.exe"
+            ],
+            "hash": "445760b1076bc275991499012df615630f1a3ec9489abd13284c0a5fa3c80074"
+        }
+    },
+    "homepage": "https://github.com/mvisonneau/approuvez",
+    "license": "Apache 2.0",
+    "description": "CLI helper client to obtain live confirmation from relevant people"
+}
