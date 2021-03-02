@@ -6,14 +6,14 @@
             "bin": [
                 "ocalver.exe"
             ],
-            "hash": "69c9d1e1976bcc3c979c59d94d4c6afdc5a22fae3038bc2c5448cd57b91e2fe4"
+            "hash": "5784f82745976b9875484fe8f4bfc126f8291ce13d6939ae68f421ad29f26d53"
         },
         "64bit": {
             "url": "https://github.com/mvisonneau/ocalver/releases/download/0.0.0-edge/ocalver_0.0.0-edge_windows_amd64.zip",
             "bin": [
                 "ocalver.exe"
             ],
-            "hash": "b8fd68bfc031483009a9b1c9c19d1c90baf1b63b68953e4bd7c193817e352f1d"
+            "hash": "0a82cee4d4b23f30dd5dbd48ea498cb81b55653d9f56f33252c1802e6194331f"
         }
     },
     "homepage": "https://github.com/mvisonneau/ocalver",
