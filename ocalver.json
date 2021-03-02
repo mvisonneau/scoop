@@ -1,19 +1,19 @@
 {
-    "version": "0.0.0-edge",
+    "version": "0.0.4-7-gd07f76c",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/mvisonneau/ocalver/releases/download/0.0.0-edge/ocalver_0.0.0-edge_windows_386.zip",
+            "url": "https://github.com/mvisonneau/ocalver/releases/download/v0.0.4-7-gd07f76c/ocalver_v0.0.4-7-gd07f76c_windows_386.zip",
             "bin": [
                 "ocalver.exe"
             ],
-            "hash": "5784f82745976b9875484fe8f4bfc126f8291ce13d6939ae68f421ad29f26d53"
+            "hash": "cd85013affa6a5b2bcd557a5b1a8959d8e194473fceaa181138826a2b3d0abb0"
         },
         "64bit": {
-            "url": "https://github.com/mvisonneau/ocalver/releases/download/0.0.0-edge/ocalver_0.0.0-edge_windows_amd64.zip",
+            "url": "https://github.com/mvisonneau/ocalver/releases/download/v0.0.4-7-gd07f76c/ocalver_v0.0.4-7-gd07f76c_windows_amd64.zip",
             "bin": [
                 "ocalver.exe"
             ],
-            "hash": "0a82cee4d4b23f30dd5dbd48ea498cb81b55653d9f56f33252c1802e6194331f"
+            "hash": "3a9d0c07e18383c34efc29711769ba1acb180a88a616c0d9739f38062de2b549"
         }
     },
     "homepage": "https://github.com/mvisonneau/ocalver",
