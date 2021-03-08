@@ -1,22 +1,22 @@
 {
-    "version": "0.4.7",
+    "version": "0.4.8",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/mvisonneau/gitlab-ci-pipelines-exporter/releases/download/v0.4.7/gitlab-ci-pipelines-exporter_v0.4.7_windows_386.zip",
+            "url": "https://github.com/mvisonneau/gitlab-ci-pipelines-exporter/releases/download/v0.4.8/gitlab-ci-pipelines-exporter_v0.4.8_windows_386.zip",
             "bin": [
                 "gitlab-ci-pipelines-exporter.exe"
             ],
-            "hash": "f849ddf87984ca2fb6c4c4c0cc1a69c9c0bef62d06784c4d5946b1826ffcb0c6"
+            "hash": "6ce8887645d7aa28272f582d3ad87e96fcc9df9643d807da1306ec4e443f3260"
         },
         "64bit": {
-            "url": "https://github.com/mvisonneau/gitlab-ci-pipelines-exporter/releases/download/v0.4.7/gitlab-ci-pipelines-exporter_v0.4.7_windows_amd64.zip",
+            "url": "https://github.com/mvisonneau/gitlab-ci-pipelines-exporter/releases/download/v0.4.8/gitlab-ci-pipelines-exporter_v0.4.8_windows_amd64.zip",
             "bin": [
                 "gitlab-ci-pipelines-exporter.exe"
             ],
-            "hash": "2c111dd56ecf0761e848c4a6f4e3d7fe9f9c4649cde2afad1cdea355be531273"
+            "hash": "d285477c58590e4f2955883a5e983bfb6e76ee4a888f0d9b2fcc0fbfe5021ec4"
         }
     },
     "homepage": "https://github.com/mvisonneau/gitlab-ci-pipelines-exporter",
-    "license": "Apache 2.0",
+    "license": "Apache-2.0",
     "description": "GitLab CI pipelines exporter (prometheus/open-metrics)"
 }
