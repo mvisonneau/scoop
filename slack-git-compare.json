@@ -1,0 +1,22 @@
+{
+    "version": "0.0.1",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/mvisonneau/slack-git-compare/releases/download/v0.0.1/slack-git-compare_v0.0.1_windows_386.zip",
+            "bin": [
+                "slack-git-compare.exe"
+            ],
+            "hash": "0b1f4a05a9fcbd3bbd982b91507abbec7cada82ccf8c4466ce5572253ee62a94"
+        },
+        "64bit": {
+            "url": "https://github.com/mvisonneau/slack-git-compare/releases/download/v0.0.1/slack-git-compare_v0.0.1_windows_amd64.zip",
+            "bin": [
+                "slack-git-compare.exe"
+            ],
+            "hash": "369cfcc40ed8336f45ebe9a8a146e28f4c2f4da4039e1492135edf7b64475276"
+        }
+    },
+    "homepage": "https://github.com/mvisonneau/slack-git-compare",
+    "license": "Apache-2.0",
+    "description": "Compare git references within Slack"
+}
