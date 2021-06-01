@@ -1,22 +1,22 @@
 {
-    "version": "0.2.0",
+    "version": "0.2.1",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/mvisonneau/strongbox/releases/download/0.2.0/strongbox_0.2.0_windows_386.zip",
+            "url": "https://github.com/mvisonneau/strongbox/releases/download/v0.2.1/strongbox_v0.2.1_windows_386.zip",
             "bin": [
                 "strongbox.exe"
             ],
-            "hash": "fb1badae3097a961dfd841224611c4066a031c7ca60f1b00f46dbe3e3ce5a3a3"
+            "hash": "73e4cff6105ecbdce59b3f44d8baaf93fdd9b9737aa2566bb976ecfdff9672cc"
         },
         "64bit": {
-            "url": "https://github.com/mvisonneau/strongbox/releases/download/0.2.0/strongbox_0.2.0_windows_amd64.zip",
+            "url": "https://github.com/mvisonneau/strongbox/releases/download/v0.2.1/strongbox_v0.2.1_windows_amd64.zip",
             "bin": [
                 "strongbox.exe"
             ],
-            "hash": "35f9c517547a2aaf7677bc2af117a453dce7cf52f0ac60e8a52db38507ea2c0c"
+            "hash": "557a8848c0a71d4c6488c0d9b0e27558ae6c76d7334ceec041c77dadff58ef16"
         }
     },
     "homepage": "https://github.com/mvisonneau/strongbox",
-    "license": "Apache 2.0",
+    "license": "Apache-2.0",
     "description": "Safely manage Hashicorp Vault secrets at rest"
 }
