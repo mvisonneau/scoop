@@ -1,22 +1,22 @@
 {
-    "version": "0.0.5",
+    "version": "0.0.6",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/mvisonneau/vac/releases/download/v0.0.5/vac_v0.0.5_windows_386.zip",
+            "url": "https://github.com/mvisonneau/vac/releases/download/v0.0.6/vac_v0.0.6_windows_386.zip",
             "bin": [
                 "vac.exe"
             ],
-            "hash": "2016040f36109b8674cdd283b36ab164bb25f4ad383a6ec58d96960aa9a78bc4"
+            "hash": "94d31aaab6b1aa1cfaada958e1e3c60cf064b39fb969c86515396d50f1ff919e"
         },
         "64bit": {
-            "url": "https://github.com/mvisonneau/vac/releases/download/v0.0.5/vac_v0.0.5_windows_amd64.zip",
+            "url": "https://github.com/mvisonneau/vac/releases/download/v0.0.6/vac_v0.0.6_windows_amd64.zip",
             "bin": [
                 "vac.exe"
             ],
-            "hash": "a12e1a0b061b90b6ce0cc11c6191be7b5f087e4c87fb266cea3be23a0d59bbe4"
+            "hash": "f99e6f5873ecf5f0a724c623abab6e48ca5e29e9d4be4fc155ac17f65bae25c9"
         }
     },
     "homepage": "https://github.com/mvisonneau/vac",
-    "license": "Apache 2.0",
+    "license": "Apache-2.0",
     "description": "VAC - Vault AWS Credentials Manager"
 }
