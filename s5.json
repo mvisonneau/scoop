@@ -1,22 +1,22 @@
 {
-    "version": "0.1.10",
+    "version": "0.1.11",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/mvisonneau/s5/releases/download/v0.1.10/s5_v0.1.10_windows_386.zip",
+            "url": "https://github.com/mvisonneau/s5/releases/download/v0.1.11/s5_v0.1.11_windows_386.zip",
             "bin": [
                 "s5.exe"
             ],
-            "hash": "7db8c6e4a141c9e50e9344bf82e180c0ab7205c20ac2c06781567a652f445db1"
+            "hash": "4f26ef99fd0931afbbe6c4d4b889b5ee508cfe3323c12c10c4dcf68037ca6497"
         },
         "64bit": {
-            "url": "https://github.com/mvisonneau/s5/releases/download/v0.1.10/s5_v0.1.10_windows_amd64.zip",
+            "url": "https://github.com/mvisonneau/s5/releases/download/v0.1.11/s5_v0.1.11_windows_amd64.zip",
             "bin": [
                 "s5.exe"
             ],
-            "hash": "1b5c81508627dfe8f2ff005b1348f8a7cc8eb29c10c51f26dcc9dc4afe9acaef"
+            "hash": "026106403a40fca60b92c1654e3125ffe64fab7b15fffee8e1eeced507f71f32"
         }
     },
     "homepage": "https://github.com/mvisonneau/s5",
-    "license": "Apache 2.0",
+    "license": "Apache-2.0",
     "description": "Safely Store Super Sensitive Stuff"
 }
