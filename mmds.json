@@ -1,19 +1,19 @@
 {
-    "version": "0.1.2",
+    "version": "0.1.3",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/mvisonneau/mmds/releases/download/0.1.2/mmds_0.1.2_windows_386.zip",
+            "url": "https://github.com/mvisonneau/mmds/releases/download/v0.1.3/mmds_v0.1.3_windows_386.zip",
             "bin": [
                 "mmds.exe"
             ],
-            "hash": "563fb43688cb4f8bda2340b785868edc7935d84edfbc39cbaffb9af67ad3a8b4"
+            "hash": "a645a9a76843524e7fd25e88e0cee9fae128101bc80ce83def83f12fc3de3a6b"
         },
         "64bit": {
-            "url": "https://github.com/mvisonneau/mmds/releases/download/0.1.2/mmds_0.1.2_windows_amd64.zip",
+            "url": "https://github.com/mvisonneau/mmds/releases/download/v0.1.3/mmds_v0.1.3_windows_amd64.zip",
             "bin": [
                 "mmds.exe"
             ],
-            "hash": "c3a7227d8f51b4534ca80adc68dd6292d74189216838df06139e3e34f2f4b625"
+            "hash": "a73762920cd00cbf7015e747ca1a5ca7ddb2bef6c594fac95200d8397c78f89e"
         }
     },
     "homepage": "https://github.com/mvisonneau/mmds",
