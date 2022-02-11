@@ -1,19 +1,19 @@
 {
-    "version": "0.1.0",
+    "version": "0.1.1",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/mvisonneau/slack-git-compare/releases/download/v0.1.0/slack-git-compare_v0.1.0_windows_386.zip",
+            "url": "https://github.com/mvisonneau/slack-git-compare/releases/download/v0.1.1/slack-git-compare_v0.1.1_windows_386.zip",
             "bin": [
                 "slack-git-compare.exe"
             ],
-            "hash": "56acbc19fc7ce01ccaaad29622e0a02db0d7c329a7439cd24046f69178c64609"
+            "hash": "a48048f3a379d51dee30dc242a2907a4d600908a4a2a5c828fb70026f407c432"
         },
         "64bit": {
-            "url": "https://github.com/mvisonneau/slack-git-compare/releases/download/v0.1.0/slack-git-compare_v0.1.0_windows_amd64.zip",
+            "url": "https://github.com/mvisonneau/slack-git-compare/releases/download/v0.1.1/slack-git-compare_v0.1.1_windows_amd64.zip",
             "bin": [
                 "slack-git-compare.exe"
             ],
-            "hash": "5186c03566d36299503f5d282c7c9898c3cc4b3802a266ba10432625d999fdbd"
+            "hash": "38d387d0cbe7962b2e074a8729c342b81f9cb80baadcc2a3c2c9217f35b47d33"
         }
     },
     "homepage": "https://github.com/mvisonneau/slack-git-compare",
